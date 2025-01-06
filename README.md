@@ -61,22 +61,8 @@ The project utilizes Power BI to create interactive dashboards and reports that 
 *   **Data Cleaning and Transformation:** Power Query Editor is used for data cleaning, transformation, and ensuring data quality.
 *   **Data Model Creation:** A star schema data model is created in Power BI Desktop, separating dimensions and facts for efficient analysis.
 
-### Report Creation
 
-Three interactive reports/dashboards are created:
 
-1.  **Executive Summary Report:**  Provides a high-level overview of sales figures.
-   <img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/exec-summary-page.png?raw=true"/>
-
-2.  **Distributor & Customer Analysis Report:** Analyzes sales from the perspective of distributors and customers.
-   <img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/dist-cust-analysis-page.png?raw=true"/>
-
-3.  **Sales Team Performance Report:**  Evaluates the performance of the sales team.
-   <img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/sales-team-perform-page.png?raw=true"/>
-
-## License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Credits
 
