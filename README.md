@@ -1,4 +1,4 @@
-# Pharmaceutical Sales Analysis
+# Pharmaceutical Sales Analysis and Visualization in Power BI
 
 This project analyzes raw sales data from a global pharmaceutical manufacturing company to extract meaningful insights and drive data-driven decision-making.
 
